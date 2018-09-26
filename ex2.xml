@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="design.css"?>
+<note>
+<define>
+<name>XML</name>
+<Description>XML is Xtensible markup language</Description>
+<Usage>Used to create web page as a database</Usage>
+</define>
+<define>
+<name>CSS</name>
+<Description>CSS is cascading style sheets</Description>
+<Usage>Used to customize display of webpages</Usage>
+</define>
+</note>

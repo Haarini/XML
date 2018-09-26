@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<namelist>
+<student>
+<first>Harini</first>
+<last>Rao</last>
+<age>19</age>
+</student>
+<student>
+<first>Anu</first>
+<last>priya</last>
+<age>19</age>
+</student>
+<student>
+<first>Agatha</first>
+<last>Regina</last>
+<age>20</age>
+</student>
+</namelist>
